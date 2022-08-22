@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/static/js/main.61b7888b.js",
-    "static/media/visualImg.png": "/static/media/visualImg.7a6c9b150342a50813bc.png",
-    "index.html": "/index.html",
-    "main.61b7888b.js.map": "/static/js/main.61b7888b.js.map"
+    "main.js": "/nanalil_introduction/static/js/main.eff4943a.js",
+    "static/media/visualImg.png": "/nanalil_introduction/static/media/visualImg.7a6c9b150342a50813bc.png",
+    "index.html": "/nanalil_introduction/index.html",
+    "main.eff4943a.js.map": "/nanalil_introduction/static/js/main.eff4943a.js.map"
   },
   "entrypoints": [
-    "static/js/main.61b7888b.js"
+    "static/js/main.eff4943a.js"
   ]
 }
