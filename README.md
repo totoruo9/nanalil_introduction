@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# 나의 날씨 일기, 나날일
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+나의 감정을 기록하고 친해지는 무드트레커형 다이어리 앱 입니다.
 
 ## Available Scripts
 
